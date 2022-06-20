@@ -1,5 +1,5 @@
 # py-speed-test-report
-A short python script to check internet speeds, runs from cronjob on linux.
+A short python script to check internet speed, runs from cronjob on linux.
 
 
 ### Cronjob
